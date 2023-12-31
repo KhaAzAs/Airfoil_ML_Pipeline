@@ -31,8 +31,12 @@ In this lab I will be using dataset(s):
 
 Diagram of an airfoil. - For informational purpose
 
-![Airfoil with flow](https://raw.githubusercontent.com/KhaAzAs/Airfoil_ML_Pipeline/main/Images/Airfoil_with_flow.png)
+<p align="center">
+  <img alt="Airfoil with flow" src="Images/Airfoil_with_flow.jpg">
+</p>
 
 Diagram showing the Angle of attack. - For informational purpose
 
-![Airfoil angle of attack](https://raw.githubusercontent.com/KhaAzAs/Airfoil_ML_Pipeline/main/Images/Airfoil_angle_of_attack.jpg)
+<p align="center">
+  <img alt="Airfoil angle of attack" src="Images/Airfoil_angle_of_attack.jpg">
+</p>
