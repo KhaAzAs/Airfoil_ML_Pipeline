@@ -32,7 +32,7 @@ In this lab I will be using dataset(s):
 Diagram of an airfoil. - For informational purpose
 
 <p align="center">
-  <img alt="Airfoil with flow" src="Images/Airfoil_with_flow.jpg">
+  <img alt="Airfoil with flow" src="Images/Airfoil_with_flow.png">
 </p>
 
 Diagram showing the Angle of attack. - For informational purpose
